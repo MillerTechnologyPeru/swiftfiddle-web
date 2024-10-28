@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/vapor/console-kit.git",
         "state": {
           "branch": null,
-          "revision": "78c0dd739df8cb9ee14a8bbbf770facc4fc3402a",
-          "version": "4.15.0"
+          "revision": "966d89ae64cd71c652a1e981bc971de59d64f13d",
+          "version": "4.15.1"
         }
       },
       {
@@ -141,8 +141,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
           "branch": null,
-          "revision": "f7dc3f527576c398709b017584392fb58592e7f5",
-          "version": "2.75.0"
+          "revision": "914081701062b11e3bb9e21accc379822621995e",
+          "version": "2.76.1"
         }
       },
       {
@@ -177,8 +177,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio-transport-services.git",
         "state": {
           "branch": null,
-          "revision": "dbace16f126fdcd80d58dc54526c561ca17327d7",
-          "version": "1.22.0"
+          "revision": "bbd5e63cf949b7db0c9edaf7a21e141c52afe214",
+          "version": "1.23.0"
         }
       },
       {
@@ -204,8 +204,8 @@
         "repositoryURL": "https://github.com/vapor/vapor.git",
         "state": {
           "branch": null,
-          "revision": "1466c50e4ad39072143e2fcdf13b4ba11be375a0",
-          "version": "4.106.0"
+          "revision": "4d3bc6ce08b72a14c9879810cf0be455ca98f1fb",
+          "version": "4.106.1"
         }
       },
       {
